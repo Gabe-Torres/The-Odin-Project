@@ -9,6 +9,13 @@ table {
   font-size: 0.8rem;
 }
 
+th[id="name col"] {
+  border: 1px solid rgb(1, 1, 1);
+}
+th[scope="row"] {
+  border: 1px solid rgb(1, 1, 1);
+}
+
 td, th {
   border: 1px solid rgb(190,190,190);
   padding: 10px 20px;
